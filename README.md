@@ -28,7 +28,7 @@ python demo.py
 ## Results
 The results of the demo script are stored in the `results` folder.
 
-[TREC 2009 @ 5 Correlation](/results/plt/displayReEADME/TREC_18_2009_WebDiversity_mdcu@5.png)
+![TREC 2009 @ 5 Correlation](results/plt/displayREADME/TREC_18_2009_WebDiversity_mdcu@5.png)
 
-[TREC 2009 @ 20 Correlation](/results/plt/displayReEADME/TREC_18_2009_WebDiversity_mdcu@20.png)
+![TREC 2009 @ 20 Correlation](results/plt/displayREADME/TREC_18_2009_WebDiversity_mdcu@20.png)
 
