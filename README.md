@@ -1,5 +1,5 @@
 # SIGIR-SP-MDCUEval
-Repository for the SIGIR Paper Evaluating MDCU in Information Retrieval
+Repository for the SIGIR Short Paper (SP) "Evaluating MDCU in Information Retrieval"
 
 
 ## Overview
