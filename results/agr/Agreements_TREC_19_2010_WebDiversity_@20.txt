@@ -1,0 +1,41 @@
+--------------------------------------------------
+Results Agreement Analysis for TREC_19_2010_WebDiversity:
+--------------------------------------------------
+Metric pair: mdcu_minmax vs alpha-nDCG@20
+--------------------------------------------------
+Kendall correlation MinMax: 0.37777777777777777, p-value: 0.1557418430335097
+--------------------------------------------------
+Summary for mdcu_minmax vs alpha-nDCG@20:
+classification
+Mixed Agreement         19
+Passive Agreement        9
+Active Agreement         7
+Active Disagreement      4
+Passive Disagreement     4
+Mixed Disagreement       2
+Name: count, dtype: int64
+Total pairs: 45
+Agreements ratio: 0.356
+Disagreements ratio: 0.178
+Mixed ratio: 0.467
+--------------------------------------------------
+Publication bias: 0.674
+Metric pair: mdcu_zScore vs alpha-nDCG@20
+--------------------------------------------------
+Kendall correlation MinMax: 0.37777777777777777, p-value: 0.1557418430335097
+--------------------------------------------------
+Summary for mdcu_zScore vs alpha-nDCG@20:
+classification
+Mixed Agreement         19
+Passive Agreement        8
+Active Agreement         7
+Passive Disagreement     5
+Active Disagreement      4
+Mixed Disagreement       2
+Name: count, dtype: int64
+Total pairs: 45
+Agreements ratio: 0.333
+Disagreements ratio: 0.200
+Mixed ratio: 0.467
+--------------------------------------------------
+Publication bias: 0.674

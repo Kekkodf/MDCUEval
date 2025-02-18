@@ -1,0 +1,13 @@
+name: MDCU
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python==3.12.4
+  - ipython
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ir-datasets

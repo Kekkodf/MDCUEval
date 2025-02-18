@@ -1,0 +1,39 @@
+--------------------------------------------------
+Results Agreement Analysis for TREC_21_2012_WebDiversity:
+--------------------------------------------------
+Metric pair: mdcu_minmax vs alpha-nDCG@5
+--------------------------------------------------
+Kendall correlation MinMax: nan, p-value: nan
+--------------------------------------------------
+Summary for mdcu_minmax vs alpha-nDCG@5:
+classification
+Passive Agreement       236
+Passive Disagreement     25
+Mixed Disagreement       16
+Mixed Agreement          15
+Active Agreement          8
+Name: count, dtype: int64
+Total pairs: 300
+Agreements ratio: 0.813
+Disagreements ratio: 0.083
+Mixed ratio: 0.103
+--------------------------------------------------
+Publication bias: 0.660
+Metric pair: mdcu_zScore vs alpha-nDCG@5
+--------------------------------------------------
+Kendall correlation MinMax: nan, p-value: nan
+--------------------------------------------------
+Summary for mdcu_zScore vs alpha-nDCG@5:
+classification
+Passive Agreement       208
+Mixed Disagreement       29
+Passive Disagreement     28
+Mixed Agreement          27
+Active Agreement          8
+Name: count, dtype: int64
+Total pairs: 300
+Agreements ratio: 0.720
+Disagreements ratio: 0.093
+Mixed ratio: 0.187
+--------------------------------------------------
+Publication bias: 0.778
